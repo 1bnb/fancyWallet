@@ -26,9 +26,11 @@ dist-ssr
 # Rust
 src-tauri/target/
 
-# 但是允许上传发布版本
-!src-tauri/target/**/release/bundle/dmg/*.dmg
-!src-tauri/target/**/release/bundle/macos/*.app
+# 发布版本放在 releases 目录
+releases/
+!releases/**/*.dmg
+!releases/**/*.app
+!releases/**/*.zip
 
 # 临时文件和构建脚本
 src-tauri/target/**/release/bundle/dmg/bundle_dmg.sh
