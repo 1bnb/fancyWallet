@@ -1,0 +1,25 @@
+{
+  "title": "特殊番号ウォレット生成器",
+  "patternLabel": "マッチパターン（前後同時マッチ）",
+  "customPattern": "カスタム番号：",
+  "customNumber": "カスタム番号",
+  "patternDescription": "前後同時マッチ",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "生成開始",
+  "generating": "生成中...",
+  "success": "生成成功！",
+  "address": "アドレス：",
+  "privateKey": "秘密鍵：",
+  "attempts": "試行回数",
+  "matches": "マッチ数",
+  "duration": "所要時間",
+  "averageDuration": "レート/k",
+  "savePath": "保存先パス（デフォルトは Documents/FancyWallets ディレクトリ）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "生成を停止"
+}
+

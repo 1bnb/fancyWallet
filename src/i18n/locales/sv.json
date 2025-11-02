@@ -1,0 +1,25 @@
+{
+  "title": "Särskild Plånbok Generator",
+  "patternLabel": "Matchningsmönster (prefix och suffix samtidigt)",
+  "customPattern": "Anpassat Nummer：",
+  "customNumber": "Anpassat Nummer",
+  "patternDescription": "prefix och suffix samtidigt",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "Starta Generering",
+  "generating": "Genererar...",
+  "success": "Framgångsrikt Genererat!",
+  "address": "Adress：",
+  "privateKey": "Privat Nyckel：",
+  "attempts": "Försök",
+  "matches": "Matchningar",
+  "duration": "Varaktighet",
+  "averageDuration": "Hastighet/k",
+  "savePath": "Spara Sökväg（standard i Documents/FancyWallets katalog）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "Stoppa Generering"
+}
+

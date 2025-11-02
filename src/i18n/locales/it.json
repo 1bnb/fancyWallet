@@ -1,0 +1,25 @@
+{
+  "title": "Generatore di Portafoglio Speciale",
+  "patternLabel": "Modello di Corrispondenza (prefisso e suffisso simultanei)",
+  "customPattern": "Numero Personalizzato：",
+  "customNumber": "Numero Personalizzato",
+  "patternDescription": "prefisso e suffisso simultanei",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "Avvia Generazione",
+  "generating": "Generazione in corso...",
+  "success": "Generazione Riuscita!",
+  "address": "Indirizzo：",
+  "privateKey": "Chiave Privata：",
+  "attempts": "Tentativi",
+  "matches": "Corrispondenze",
+  "duration": "Durata",
+  "averageDuration": "Velocità/k",
+  "savePath": "Percorso di Salvataggio（predefinito nella directory Documents/FancyWallets）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "Ferma Generazione"
+}
+

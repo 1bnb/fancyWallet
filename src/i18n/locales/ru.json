@@ -1,0 +1,25 @@
+{
+  "title": "Генератор Криптокошелька",
+  "patternLabel": "Шаблон Соответствия (префикс и суффикс одновременно)",
+  "customPattern": "Пользовательский Номер：",
+  "customNumber": "Пользовательский Номер",
+  "patternDescription": "префикс и суффикс одновременно",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "Начать Генерацию",
+  "generating": "Генерация...",
+  "success": "Успешная Генерация!",
+  "address": "Адрес：",
+  "privateKey": "Приватный Ключ：",
+  "attempts": "Попытки",
+  "matches": "Совпадения",
+  "duration": "Длительность",
+  "averageDuration": "Скорость/k",
+  "savePath": "Путь Сохранения（по умолчанию в директории Documents/FancyWallets）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "Остановить Генерацию"
+}
+

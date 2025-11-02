@@ -1,0 +1,25 @@
+{
+  "title": "Fancy Wallet Generator",
+  "patternLabel": "Match Pattern",
+  "customPattern": "Custom Number:",
+  "customNumber": "Custom Number",
+  "patternDescription": "prefix and suffix match simultaneously",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "Start Generating",
+  "generating": "Generating...",
+  "success": "Generated Successfully!",
+  "address": "Address:",
+  "privateKey": "Private Key:",
+  "attempts": "Attempts",
+  "matches": "Matches",
+  "duration": "Duration",
+  "averageDuration": "Rate/k",
+  "savePath": "Save Path (default Documents/FancyWallets directory)",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "Stop Generating"
+}
+

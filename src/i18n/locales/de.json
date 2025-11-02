@@ -1,0 +1,25 @@
+{
+  "title": "Besonderes Wallet-Generator",
+  "patternLabel": "Übereinstimmungsmuster (Präfix und Suffix gleichzeitig)",
+  "customPattern": "Benutzerdefinierte Nummer：",
+  "customNumber": "Benutzerdefinierte Nummer",
+  "patternDescription": "Präfix und Suffix gleichzeitig",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "Generierung Starten",
+  "generating": "Generierung läuft...",
+  "success": "Erfolgreich Generiert!",
+  "address": "Adresse：",
+  "privateKey": "Privater Schlüssel：",
+  "attempts": "Versuche",
+  "matches": "Übereinstimmungen",
+  "duration": "Dauer",
+  "averageDuration": "Rate/k",
+  "savePath": "Speicherpfad（Standardeinstellung: Documents/FancyWallets Verzeichnis）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "Generierung Stoppen"
+}
+

@@ -1,0 +1,25 @@
+{
+  "title": "Generador de Billetera Especial",
+  "patternLabel": "Patrón de Coincidencia (prefijo y sufijo simultáneos)",
+  "customPattern": "Número Personalizado：",
+  "customNumber": "Número Personalizado",
+  "patternDescription": "prefijo y sufijo simultáneos",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "Iniciar Generación",
+  "generating": "Generando...",
+  "success": "Generación Exitosa!",
+  "address": "Dirección：",
+  "privateKey": "Clave Privada：",
+  "attempts": "Intentos",
+  "matches": "Coincidencias",
+  "duration": "Duración",
+  "averageDuration": "Velocidad/k",
+  "savePath": "Ruta de Guardado（por defecto en el directorio Documents/FancyWallets）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "Detener Generación"
+}
+

@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+/* 隐藏滚动条 */
+* {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+
+*::-webkit-scrollbar {
+  display: none; /* Chrome, Safari and Opera */
+}
+
+/* 旋转光圈效果 */
+.rotating-border {
+  position: relative;
+  overflow: hidden;
+}
+
+.rotating-border::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: conic-gradient(
+    from 0deg,
+    #000000 0deg,
+    #000000 60deg,
+    #000000 120deg,
+    #000000 180deg,
+    #000000 240deg,
+    #000000  300deg,
+    #a855f7 360deg
+  );
+  animation: rotate 4s linear infinite;
+  z-index: 0;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+/* 当添加 spinning 类时才显示边框动画 */
+.rotating-border.spinning::before {
+  opacity: 1;
+}
+
+.rotating-border::after {
+  content: '';
+  position: absolute;
+  inset: 2px;
+  background: #110f11;
+  border-radius: inherit;
+  z-index: 1;
+}
+
+.rotating-border > * {
+  position: relative;
+  z-index: 10;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* 按钮脉冲动画 */
+@keyframes pulse-subtle {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.8;
+  }
+}
+
+.animate-pulse-subtle {
+  animation: pulse-subtle 2s ease-in-out infinite;
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Özel Cüzdan Oluşturucu",
+  "patternLabel": "Eşleşme Deseni (önek ve son ek aynı anda)",
+  "customPattern": "Özel Numara：",
+  "customNumber": "Özel Numara",
+  "patternDescription": "önek ve son ek aynı anda",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "Oluşturmayı Başlat",
+  "generating": "Oluşturuluyor...",
+  "success": "Başarıyla Oluşturuldu!",
+  "address": "Adres：",
+  "privateKey": "Özel Anahtar：",
+  "attempts": "Denemeler",
+  "matches": "Eşleşmeler",
+  "duration": "Süre",
+  "averageDuration": "Hız/k",
+  "savePath": "Kaydetme Yolu（varsayılan Documents/FancyWallets dizini）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "Oluşturmayı Durdur"
+}
+

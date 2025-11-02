@@ -1,0 +1,25 @@
+{
+  "title": "Speciale Wallet Generator",
+  "patternLabel": "Overeenkomst Patroon (voorvoegsel en achtervoegsel tegelijk)",
+  "customPattern": "Aangepast Nummer：",
+  "customNumber": "Aangepast Nummer",
+  "patternDescription": "voorvoegsel en achtervoegsel tegelijk",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "Genereren Starten",
+  "generating": "Genereren...",
+  "success": "Succesvol Gegenereerd!",
+  "address": "Adres：",
+  "privateKey": "Privésleutel：",
+  "attempts": "Pogingen",
+  "matches": "Overeenkomsten",
+  "duration": "Duur",
+  "averageDuration": "Snelheid/k",
+  "savePath": "Bewaar Pad（standaard in Documents/FancyWallets directory）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "Genereren Stoppen"
+}
+

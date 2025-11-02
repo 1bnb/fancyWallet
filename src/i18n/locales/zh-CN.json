@@ -1,0 +1,25 @@
+{
+  "title": "靓号钱包生成器",
+  "patternLabel": "匹配模式（前后缀同时匹配）",
+  "customPattern": "自选号码：",
+  "customNumber": "自选号码",
+  "patternDescription": "前后缀同时匹配",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "开始生成",
+  "generating": "生成中...",
+  "success": "生成成功！",
+  "address": "地址：",
+  "privateKey": "私钥：",
+  "attempts": "尝试次数",
+  "matches": "匹配次数",
+  "duration": "耗时",
+  "averageDuration": "速率/k",
+  "savePath": "保存路径（默认保存到Documents/FancyWallets 目录）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "停止生成"
+}
+

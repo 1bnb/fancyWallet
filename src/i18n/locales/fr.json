@@ -1,0 +1,25 @@
+{
+  "title": "Générateur de Portefeuille Fantaisie",
+  "patternLabel": "Motif de Correspondance (préfixe et suffixe simultanés)",
+  "customPattern": "Numéro Personnalisé：",
+  "customNumber": "Numéro Personnalisé",
+  "patternDescription": "préfixe et suffixe simultanés",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "Commencer la Génération",
+  "generating": "Génération en cours...",
+  "success": "Génération Réussie !",
+  "address": "Adresse：",
+  "privateKey": "Clé Privée：",
+  "attempts": "Tentatives",
+  "matches": "Correspondances",
+  "duration": "Durée",
+  "averageDuration": "Vitesse/k",
+  "savePath": "Chemin de Sauvegarde（par défaut dans le répertoire Documents/FancyWallets）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "Arrêter la Génération"
+}
+

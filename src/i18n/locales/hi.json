@@ -1,0 +1,25 @@
+{
+  "title": "विशेष वॉलेट जेनरेटर",
+  "patternLabel": "मिलान पैटर्न (उपसर्ग और प्रत्यय एक साथ)",
+  "customPattern": "कस्टम नंबर：",
+  "customNumber": "कस्टम नंबर",
+  "patternDescription": "उपसर्ग और प्रत्यय एक साथ",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "जेनरेशन शुरू करें",
+  "generating": "जेनरेट हो रहा है...",
+  "success": "सफलतापूर्वक जेनरेट किया गया!",
+  "address": "पता：",
+  "privateKey": "निजी कुंजी：",
+  "attempts": "प्रयास",
+  "matches": "मैच",
+  "duration": "अवधि",
+  "averageDuration": "दर/k",
+  "savePath": "सहेजें पथ（डिफ़ॉल्ट Documents/FancyWallets निर्देशिका में）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "जेनरेशन रोकें"
+}
+

@@ -1,0 +1,25 @@
+{
+  "title": "مولد محفظة فاخرة",
+  "patternLabel": "نمط المطابقة (البادئة واللاحقة في وقت واحد)",
+  "customPattern": "الرقم المخصص：",
+  "customNumber": "الرقم المخصص",
+  "patternDescription": "البادئة واللاحقة في وقت واحد",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "بدء التوليد",
+  "generating": "جاري التوليد...",
+  "success": "تم التوليد بنجاح!",
+  "address": "العنوان：",
+  "privateKey": "المفتاح الخاص：",
+  "attempts": "المحاولات",
+  "matches": "المطابقات",
+  "duration": "المدة",
+  "averageDuration": "المعدل/k",
+  "savePath": "مسار الحفظ（افتراضي في مجلد Documents/FancyWallets）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "إيقاف التوليد"
+}
+

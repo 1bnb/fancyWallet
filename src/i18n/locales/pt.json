@@ -1,0 +1,25 @@
+{
+  "title": "Gerador de Carteira Especial",
+  "patternLabel": "Padrão de Correspondência (prefixo e sufixo simultâneos)",
+  "customPattern": "Número Personalizado：",
+  "customNumber": "Número Personalizado",
+  "patternDescription": "prefixo e sufixo simultâneos",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "Iniciar Geração",
+  "generating": "Gerando...",
+  "success": "Geração Bem Sucedida!",
+  "address": "Endereço：",
+  "privateKey": "Chave Privada：",
+  "attempts": "Tentativas",
+  "matches": "Correspondências",
+  "duration": "Duração",
+  "averageDuration": "Velocidade/k",
+  "savePath": "Caminho de Salvamento（padrão no diretório Documents/FancyWallets）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "Parar Geração"
+}
+

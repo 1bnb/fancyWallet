@@ -1,0 +1,25 @@
+{
+  "title": "특수 번호 지갑 생성기",
+  "patternLabel": "매치 패턴（전후 동시 매치）",
+  "customPattern": "사용자 정의 번호：",
+  "customNumber": "사용자 정의 번호",
+  "patternDescription": "전후 동시 매치",
+  "recommendedPatterns": {
+    "aaaa": "AAAA",
+    "aabb": "AABB",
+    "abab": "ABAB"
+  },
+  "generate": "생성 시작",
+  "generating": "생성 중...",
+  "success": "생성 성공!",
+  "address": "주소：",
+  "privateKey": "개인 키：",
+  "attempts": "시도 횟수",
+  "matches": "매치 횟수",
+  "duration": "소요 시간",
+  "averageDuration": "속도/k",
+  "savePath": "저장 경로（기본값은 Documents/FancyWallets 디렉토리）",
+  "savePathPlaceholder": "Documents/FancyWallets",
+  "stop": "생성 중지"
+}
+
